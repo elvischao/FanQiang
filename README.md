@@ -33,32 +33,27 @@
 <br>
 <br>
 <h2><a id="user-content-二ssssrv2ray-机场" class="anchor" aria-hidden="true" href="#二ssssrv2ray-机场"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><span id="user-content-2">二、SS、SSR、V2ray 机场</span></h2>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/xiaoming-ssr/FanQiang-Book/blob/master/2.png"><img src="https://github.com/xiaoming-ssr/FanQiang-Book/raw/master/jcdq.png" alt="" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/elvischao/FanQiang/blob/master/jcdq.png"><img src="https://github.com/elvischao/FanQiang/raw/master/jcdq.png" alt="" style="max-width:100%;"></a></p>
 <p><strong>机场是老司机和小白皆可的一种方案，性价比高，省事省心，稳定性与速度兼顾。</strong></p>
 <br>
 <br>
 <ul>
 <li>
-<h3><a id="user-content-搬瓦工机场-just-my-socks-详细图文教程" class="anchor" aria-hidden="true" href="#搬瓦工机场-just-my-socks-详细图文教程"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><span id="user-content-4"><a href="https://shimo.im/docs/PCTCCVrvGK8qXVkV" rel="nofollow">搬瓦工机场 Just My Socks 详细图文教程</a></span></h3>
+<h3><a id="user-content-推荐机场-just-my-socks-详细图文教程" class="anchor" aria-hidden="true" href="#推荐机场-just-my-socks-详细图文教程"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><span id="user-content-4"><a href="http://u6.gg/sRmN9" rel="nofollow">推荐机场 阿凡梯 详细图文教程</a></span></h3>
 </li>
 </ul>
-<p>（备用链接：<a href="https://git.io/JeNks%EF%BC%89" rel="nofollow">https://git.io/JeNks）</a></p>
+<p>（备用链接：<a href="http://u6.gg/sRmN9" rel="nofollow">http://u6.gg/sRmN9</a></p>
 <ul>
 <li>
-<h3><a id="user-content-套餐大全" class="anchor" aria-hidden="true" href="#套餐大全"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://Git.io/JeNkk" rel="nofollow">套餐大全</a></h3>
+<h3><a id="user-content-套餐大全" class="anchor" aria-hidden="true" href="#套餐大全"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="http://u6.gg/sRmN9" rel="nofollow">套餐大全</a></h3>
 </li>
 </ul>
 <br>
-<p><strong>Just My Socks 优势：</strong></p>
+<p><strong>AFunVPN阿凡梯 优势：</strong></p>
 <ul>
-<li>搬瓦工（BandwagonHost）出品，值得信赖，安全靠谱，不会跑路。</li>
 <li>免去个人搭建代理流程，降低科学上网门槛，更适合 初级/小白用户。</li>
-<li>全部采用CN2 GIA/CN2国际精品线路，速度给力。</li>
-<li>提供5个 IP，后台自动检测 ，被墙自动更换，保证可以用，省事省心。</li>
-</ul>
-<p><strong>更新：</strong></p>
-<ul>
-<li>2.88 套餐暂时供货不足，可以等官方补货，或者先用其他套餐，补货后再更换套餐。</li>
+<li>高性价比，服务好，支持远程技术支持</li>
+<li>保证可以用，省事省心。</li>
 </ul>
 <br>
 <br>
@@ -71,7 +66,7 @@
 <h3><a id="user-content-vps-服务器一键搭建-shadowsocksssr图文教程" class="anchor" aria-hidden="true" href="#vps-服务器一键搭建-shadowsocksssr图文教程"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://shimo.im/docs/1bb0d5b98de2420e" rel="nofollow">VPS 服务器一键搭建 Shadowsocks【ssr】图文教程</a></h3>
 </li>
 </ul>
-<p>(备用链接：<a href="https://Git.io/JeNke" rel="nofollow">https://Git.io/JeNke</a>)</p>
+<p>(备用链接：<a href="http://u6.gg/sRmN9" rel="nofollow">http://u6.gg/sRmN9</a>)</p>
 <br>
 <br>
 <br>
