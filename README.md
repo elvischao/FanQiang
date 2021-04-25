@@ -55,7 +55,7 @@
 <li>高性价比，服务好，支持远程技术支持</li>
 <li>保证可以用，省事省心。</li>
 </ul>
-<p>(备用链接：<a href="http://u6.gg/sRmN9" rel="nofollow">http://u6.gg/sRmN9</a>)</p>
+<p>(备用链接：<a href="https://dwz.afunv.top/3" rel="nofollow">https://dwz.afunv.top/3</a>)</p>
 <br>
 <br>
 <br>
